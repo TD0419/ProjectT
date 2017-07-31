@@ -5,6 +5,6 @@ int main(void)
 	char* banana = "ƒoƒiƒi";
 
 
-	int a = 1;
+	int a = 12;
 	return;
 }
